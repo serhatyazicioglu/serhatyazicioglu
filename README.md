@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/serhatyazıcıoğlu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serhatyazıcıoğlu" height="30" width="40" /></a>
 <a href="https://kaggle.com/serhatyzc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="serhatyzc" height="30" width="40" /></a>
-<a href="https://medium.com/serhat-yazicioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="serhat-yazicioglu" height="30" width="40" /></a>
+<a href="https://serhat-yazicioglu.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="serhat-yazicioglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
