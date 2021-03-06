@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1>
 <h3 align="center">Data Science Enthusiast</h3>
-(https://visitor-badge.glitch.me/badge?page_id=serhatyazicioglu.serhatyazicioglu)
+https://visitor-badge.glitch.me/badge?page_id=serhatyazicioglu.serhatyazicioglu
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
