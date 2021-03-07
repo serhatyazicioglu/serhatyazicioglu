@@ -1,9 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Serhat</h1>
-<h3 align="center">Data Science Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyazicioglu&label=Profile%20views&color=0e75b6&style=flat" alt="serhatyazicioglu" /> </p>
+<h3 align="center">Data Science Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyazicioglu&label=Profile%20views&color=0e75b6&style=flat" alt="serhatyazicioglu" /> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
